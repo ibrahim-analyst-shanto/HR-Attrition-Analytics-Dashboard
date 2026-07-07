@@ -186,7 +186,7 @@ HR-Attrition-Analytics-Dashboard/
 ├── README.md
 ├── assets/
 │   └── dashboard-preview.png
-└── HR_Attrition_Dashboard.pbix
+└── HR Attrition Analytics.pbix
 ```
 
 ---
@@ -194,7 +194,7 @@ HR-Attrition-Analytics-Dashboard/
 ## 🚀 How to Use
 
 1. Clone this repository.
-2. Open `HR_Attrition_Dashboard.pbix` in **Power BI Desktop** (2023+ recommended).
+2. Open `HR Attrition Analytics.pbix` in **Power BI Desktop** (2023+ recommended).
 3. Use the department slicer top-right to filter the entire page.
 4. Hover any visual for exact tooltips, or right-click → **Drill through** on the pivot table for role-level detail.
 
