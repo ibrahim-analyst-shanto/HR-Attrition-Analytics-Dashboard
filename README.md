@@ -17,7 +17,7 @@
 
 ### 🔍 Interactive Filtering — Department Slicer in Action
 
-![HR Attrition Analytics Dashboard](assets/Dashboard rnd filter.png)
+![HR Attrition Analytics Dashboard](assets/Dashboardrndfilter.png)
 
 *Clicking **Research & Development** on the slicer instantly recalculates every visual on the page — headcount drops to 961, attrition falls to 13.84% (below the 16.2% company average), and the salary donut reshapes to show 82.71% of R&D staff sitting in the "Upto 5k" band. This is the same page, zero extra clicks beyond the slicer — every card, chart, and the pivot table re-render together.*
 
