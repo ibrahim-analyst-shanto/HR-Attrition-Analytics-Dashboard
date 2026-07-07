@@ -11,13 +11,13 @@
 
 ## 🖼️ Dashboard Preview
 
-![HR Attrition Analytics Dashboard](assets/dashboard-preview.png)
+![HR Attrition Analytics Dashboard](assets/Dashboard.png)
 
 *Dark "Night Quartz" theme, one-page executive view — 6 KPI cards, a gender-split treemap, 3 bar/column charts, a donut chart, an area chart, and a job role × satisfaction pivot table, all cross-filtered by a department slicer.*
 
 ### 🔍 Interactive Filtering — Department Slicer in Action
 
-![Filtered to Research & Development](assets/dashboard-rnd-filter.png)
+![Filtered to Research & Development](assets/Dashboard rnd filter.png)
 
 *Clicking **Research & Development** on the slicer instantly recalculates every visual on the page — headcount drops to 961, attrition falls to 13.84% (below the 16.2% company average), and the salary donut reshapes to show 82.71% of R&D staff sitting in the "Upto 5k" band. This is the same page, zero extra clicks beyond the slicer — every card, chart, and the pivot table re-render together.*
 
