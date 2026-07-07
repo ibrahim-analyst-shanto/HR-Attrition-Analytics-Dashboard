@@ -202,7 +202,7 @@ HR-Attrition-Analytics-Dashboard/
 
 ## 👤 Author
 
-**Md Ibrahim (Shawon)** — Junior Data Analyst | Business Intelligence Developer | Automation Enthusiast
+**Md Ibrahim (Shanto)** — Junior Data Analyst | Business Intelligence Developer | Automation Enthusiast
 
 Turning raw data into actionable business intelligence through Power BI, DAX, SQL, and Python-based automation.
 
